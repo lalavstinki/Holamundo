@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hola!
+=======
+Hola!
+Adios!
+>>>>>>> parent of 329f47d... Nuevo
